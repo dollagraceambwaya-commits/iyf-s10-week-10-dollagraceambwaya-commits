@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Dolla Grace Ambwaya
-- **GitHub:** [@dollagraceambwaya](https://github.com/dollagraceambwaya)
+- **GitHub:** [@dollagraceambwaya](https://github.com/dollagraceambwaya-commits)
 - **Date:** May 12, 2026
 
 ## Project Description
