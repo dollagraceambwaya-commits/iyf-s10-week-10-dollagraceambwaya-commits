@@ -28,6 +28,7 @@ The goal was to learn backend fundamentals and build a structured API server wit
 ## How to Run
 1. Clone this repository:
    git clone https://github.com/dollagraceambwaya/iyf-s10-week-10-dollagraceambwaya-commits.git
+
    cd iyf-s10-week-10-dollagraceambwaya-commits
    
 3. Install dependencies:
